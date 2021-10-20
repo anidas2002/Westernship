@@ -16,7 +16,7 @@ var message=document.getElementById('message').value;
 				Host: "smtp.gmail.com",
 				Username : "westernshiporg@gmail.com",
 				Password : "Westernship1*",
-				To : 'anidas2002@gmail.com',
+				To : 'quotations@westernship.org',
 				From : "westernshiporg@gmail.com",
 				Subject : "Website Enquiry",
 				Body : "New Enquiry"+"<br>"+"Name : "+name+"<br>"+"Email : "+email+"<br>"+"Mobile : "+mobile+"<br>"+"Company : "+company+
